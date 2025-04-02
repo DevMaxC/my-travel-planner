@@ -1,5 +1,10 @@
 ## Demo Travel Planner App
 
+This is a repo with:
+- NextJS
+- Typescript
+- TailwindCSS
+
 Use this repo as a starting point to:
 
 - Keep it as a travel application and expand its features
